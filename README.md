@@ -14,8 +14,4 @@ The artifact has been tested under the following environment:
 
 No specialized hardware is required.
 
-## Usage
-After downloading the repository, run the following command:
 
-```bash
-python run_demo.py
